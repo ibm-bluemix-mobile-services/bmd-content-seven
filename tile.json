@@ -1,0 +1,21 @@
+{
+	"action" : {
+		"type" : "url",
+		"text" : "Coming Soon",
+		"link" : "../projects",
+		"description" : "Create your next project",
+		"newTab" : false,
+		"altText" : "Coming Soon"
+	},
+	"alternateAction" : {
+		"type" : "url",
+		"text" : "Get Started",
+		"link" : "../create-project?starter=c9d6e253-d123-4d13-8c93-219cce31122a",
+		"description" : "UI Starter - Store Catalog",
+		"newTab" : false,
+		"altText" : "Get Started"
+	},
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
+	"video" : "https://www.youtube.com/embed/cEHyWClBjpc"
+}
