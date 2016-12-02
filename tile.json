@@ -17,6 +17,10 @@
 	},
 	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
 	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
+<<<<<<< HEAD
 	"video" : "https://www.youtube.com/embed/cEHyWClBjpc",
 	"hide" : true
+=======
+	"video" : "https://www.youtube.com/embed/cEHyWClBjpc"
+>>>>>>> master
 }
