@@ -1,3 +1,3 @@
-# Create Your Next Project
+# Video Tutorial
 
-Choose a starter project that best matches your needs. Add Push, Analytics, and Authentication capabilities, and configure your working code!
+Watch a video tutorial about how to create your project from the Basic Code Starter and generate your project code for iOS.
