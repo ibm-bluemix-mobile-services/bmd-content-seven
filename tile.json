@@ -1,22 +1,21 @@
 {
 	"action" : {
 		"type" : "url",
-		"text" : "Coming Soon",
-		"link" : "../projects",
+		"text" : "Video Tuturial: iOS Basic Code Starter",
+		"link" : "https://www.youtube.com/channel/UCRW4t4Hzm9gzuiq5naERkCw",
 		"description" : "Create your next project",
-		"newTab" : false,
-		"altText" : "Coming Soon"
+		"newTab" : true,
+		"altText" : "Learn More"
 	},
 	"alternateAction" : {
 		"type" : "url",
 		"text" : "Get Started",
-		"link" : "../create-project?starter=c9d6e253-d123-4d13-8c93-219cce31122a",
-		"description" : "UI Starter - Store Catalog",
+		"link" : "../create-project?starter=b5e5fe90-17a8-3ef7-b88f-b714f031c15c",
+		"description" : "Code Starter - Basic",
 		"newTab" : false,
-		"altText" : "Get Started"
+		"altText" : "GET STARTED"
 	},
 	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
 	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
-	"video" : "https://www.youtube.com/embed/cEHyWClBjpc",
-	"hide" : true
+	"video" : "https://www.youtube.com/embed/cEHyWClBjpc"
 }
