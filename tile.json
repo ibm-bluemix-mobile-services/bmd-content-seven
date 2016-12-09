@@ -9,7 +9,7 @@
 	},
 	"alternateAction" : {
 		"type" : "url",
-		"text" : "Get Started",
+		"text" : "GET STARTED",
 		"link" : "../create-project?starter=b5e5fe90-17a8-3ef7-b88f-b714f031c15c",
 		"description" : "Code Starter - Basic",
 		"newTab" : false,
