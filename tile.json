@@ -1,21 +1,20 @@
 {
 	"action" : {
-		"type" : "url",
-		"text" : "Video Tuturial: iOS Basic Code Starter",
-		"link" : "https://www.youtube.com/channel/UCRW4t4Hzm9gzuiq5naERkCw",
-		"description" : "Video Tutorials",
+		"type": "url",
+		"text" : "Code Starter - Watson Language",
+		"link": "../../docs/mobile/tutorial_watson_language.html",
+		"description" : "Use the Watson Language Code Starter to create your project",
 		"newTab" : true,
-		"altText" : "Learn More"
+		"altText" : "Code Starter - Watson Language"
 	},
 	"alternateAction" : {
 		"type" : "url",
 		"text" : "GET STARTED",
-		"link" : "../create-project?starter=b5e5fe90-17a8-3ef7-b88f-b714f031c15c",
-		"description" : "Code Starter - Basic",
+		"link" : "../create-project?starter=512568a1-72db-35c7-b9c4-4f3e3bc89375",
+		"description" : "Code Starter - Watson Language",
 		"newTab" : false,
 		"altText" : "GET STARTED"
 	},
-	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
-	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/create_project.svg",
-	"video" : "https://www.youtube.com/embed/cEHyWClBjpc"
+	"image" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/watson_language.svg",
+	"icon" : "https://ibm-bluemix-mobile-services.github.io/bmd-content-seven/watson_language.svg"
 }

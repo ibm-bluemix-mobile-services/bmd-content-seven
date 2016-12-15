@@ -1,3 +1,3 @@
-# Video Tutorial
+# Code Starter - Watson Language
 
-Watch a video tutorial about how to create your project from the Basic Code Starter and generate your project code for iOS.
+Choose the Watson Language Code Starter to create your project. You can translate text into different languages and speak the translated text.
