@@ -10,7 +10,7 @@
 	"alternateAction" : {
 		"type" : "url",
 		"text" : "Get Started",
-		"link" : "../developer/create-project/?pattern=WEB",
+		"link" : "../create-project/?pattern=WEB",
 		"description" : "Get Started",
 		"newTab" : false,
 		"altText" : "Get Started"
