@@ -2,7 +2,7 @@
 	"action" : {
 		"type": "url",
 		"text" : "Learn More",
-		"link": "../../docs/cloudnative/patterns.html#web",
+		"link": "https://www.ibm.com/blogs/bluemix/2017/03/bluemix-developer-console-web-pattern/",
 		"description" : "Learn More",
 		"newTab" : true,
 		"altText" : "Learn More"
