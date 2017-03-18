@@ -1,3 +1,3 @@
-# Code Starter - Watson Language
+# Web App
 
-Choose the Watson Language Code Starter to create your project. You can translate text into different languages and speak the translated text.
+Build out web projects ranging from bare-bones web servers to advanced projects using Webpack, Gulp, Sass, and React.
